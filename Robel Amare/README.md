@@ -1,3 +1,3 @@
-# section b
+# SECTION B
 
 # ETS1160/15
